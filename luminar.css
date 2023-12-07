@@ -79,3 +79,22 @@ a {
   }
 
 }
+.butt{
+  background-color: purple;
+  border: none;
+  color: white;
+    padding: 10px 20px;
+    border-radius: 30px;
+
+cursor: pointer;
+  }
+  .butt:hover{
+    background-color: rgb(187, 100, 187);
+  }
+  .l1{
+color: #5e068a;
+  }
+  .l2{
+   color:  #5e068a5b;
+  }
+
